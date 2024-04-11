@@ -1,0 +1,52 @@
+type: edu
+custom_name: Doing the math
+files:
+  - name: arithmetic_operators.py
+    visible: true
+    placeholders:
+      - offset: 51
+        length: 7
+        placeholder_text: '# divide the number by 2'
+        initial_state:
+          length: 24
+          offset: 51
+        initialized_from_dependency: false
+        selected: false
+        status: Solved
+        encrypted_possible_answer: lGQxpA1+z52GAwFJDQSO/A==
+      - offset: 84
+        length: 7
+        placeholder_text: '# multiply the number by 2'
+        initial_state:
+          length: 26
+          offset: 101
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: /3oQu84g2q9qlDGf38oUUQ==
+      - offset: 111
+        length: 39
+        placeholder_text: '# add the division result to the multiplication result'
+        initial_state:
+          length: 54
+          offset: 147
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: AWxCOVsmJb5hC+guvuNyoB3C4oNTysI9JnY5OXx84Z8rPL+FsdO5aGyZ5BChAci0
+    encrypted_text: hfbkELl8Xo1LId/aahgBqIfAnBqYNm7Q7I2jNG2NePk00SztZ8lLqp4FJ5IpiTcEujnjTwd98fhCJZj/SS8Q6ALOwFa1p92ySzb9P7q/fyN3M2V5Ux0ogGbHIOgdXQrm2up2lytY6t3o214McjRcm7JBC8ih7lHrCla+Vi80J8dknm03DTr9kigq+6WCA3dzlRMlEkhdR6tYP/4h5x0v7c96V2KwRG6zaSsu2kwuyhy28sC2JRSYoohCr/tDyC4GQQBZla0T8pC91NW9bDmo751dw7PljOaxdLmPJSQ0AW5LtNAoSAc0f1IQNAsil9n3eFaF3XUAv/oOeOrwUqoW/A==
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: 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
+    learner_created: false
+  - name: edu_context_menu_run.png
+    visible: false
+    is_binary: true
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Variables+/+Arithmetic+Operators
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 19 Feb 2024 17:32:33 UTC"
+record: -1
